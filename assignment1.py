@@ -29,4 +29,4 @@ for number in numbers:
 #4. Print Number of even numbers and Number of odd numbers
 
 print('Number of even numbers: ', x)
-print('Number of even numbers: ', y)
+print('Number of odd numbers: ', y)
